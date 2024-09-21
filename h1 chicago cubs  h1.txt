@@ -1,0 +1,22 @@
+<h1>chicago cubs</h1>
+<p>are a team chicago cubs are a team located in chicago illinois</p>
+<p>they won the world series in 2016</p>
+<p>chicago is 2 mlb team their are the chicago cubs and the chicago white sox</p><body <!DOCTYPE html>
+<html>
+<head>
+  <title>Chicago Cubs</title>
+</head>
+<body>
+  <h1>Chicago Cubs</h1>
+  <p>The Chicago Cubs are a Major League Baseball team located in Chicago, Illinois.</p>
+  <p>They won the World Series in 2016.</p>
+  <p>Chicago has two MLB teams: the Chicago Cubs and the Chicago White Sox.</p>
+  <p style="background-color: lightblue;">The Chicago Cubs.</p>
+</body>
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Chicago Cubs Button</title>
